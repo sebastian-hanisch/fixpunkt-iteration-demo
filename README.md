@@ -1,7 +1,6 @@
 # Iterieren und Fixpunkt – Eigenwerte sagen den Grenzwert, nicht den Weg – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-fixpunkt-iteration-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-fixpunkt-iteration-demo.streamlit.app/)**
 
 Stück 1 der Linie **Dynamische Systeme** in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, und zwar die Wurzel: Es gibt keinen Vorgänger. Die Frage der Linie ist, was passiert, wenn man eine Regel immer wieder auf ihr eigenes Ergebnis anwendet. Dieses Stück bleibt bei **linearen** Iterationen x → A·x; im nächsten Stück ([logistische-abbildung-demo](https://github.com/sebastian-hanisch/logistische-abbildung-demo)) macht die Nichtlinearität aus dem Eigenwert −1 die Periodenverdopplung, und [schrittweite-dynamik-demo](https://github.com/sebastian-hanisch/schrittweite-dynamik-demo) führt die Schwelle 2/λmax des Gradientenabstiegs in die Dynamik.
 
